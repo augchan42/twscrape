@@ -1,0 +1,3015 @@
+{
+  "data": {
+    "threaded_conversation_with_injections_v2": {
+      "instructions": [
+        {
+          "type": "TimelineAddEntries",
+          "entries": [
+            {
+              "entryId": "tweet-1939764384160743841",
+              "sortIndex": "7283607652694031966",
+              "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                  "itemType": "TimelineTweet",
+                  "__typename": "TimelineTweet",
+                  "tweet_results": {
+                    "result": {
+                      "__typename": "Tweet",
+                      "rest_id": "1939764384160743841",
+                      "has_birdwatch_notes": false,
+                      "core": {
+                        "user_results": {
+                          "result": {
+                            "__typename": "User",
+                            "id": "VXNlcjoxNzQzMDQ5NTgzNzc1NjUzODg5",
+                            "rest_id": "1743049583775653889",
+                            "affiliates_highlighted_label": {},
+                            "has_graduated_access": true,
+                            "is_blue_verified": true,
+                            "legacy": {
+                              "following": false,
+                              "can_dm": false,
+                              "can_media_tag": true,
+                              "created_at": "Thu Jan 04 23:20:02 +0000 2024",
+                              "default_profile": true,
+                              "default_profile_image": false,
+                              "description": "Builder, VC, Philanthropist. Q Pill @nvrlcl Banking @nordarkhq Algo @hilbertcapital Co-founder @codetoinspire 501(c)3 Ex @BitcoinCenterNY @consensys @0xPolygon",
+                              "entities": {
+                                "description": {
+                                  "urls": []
+                                },
+                                "url": {
+                                  "urls": [
+                                    {
+                                      "display_url": "johnlilic.info",
+                                      "expanded_url": "https://www.johnlilic.info/",
+                                      "url": "https://t.co/98ymCqZ35g",
+                                      "indices": [
+                                        0,
+                                        23
+                                      ]
+                                    }
+                                  ]
+                                }
+                              },
+                              "fast_followers_count": 0,
+                              "favourites_count": 3492,
+                              "followers_count": 4718,
+                              "friends_count": 1802,
+                              "has_custom_timelines": false,
+                              "is_translator": false,
+                              "listed_count": 55,
+                              "location": "Global coverage",
+                              "media_count": 307,
+                              "name": "John Lilic",
+                              "normal_followers_count": 4718,
+                              "pinned_tweet_ids_str": [
+                                "1880100229267247152"
+                              ],
+                              "possibly_sensitive": false,
+                              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743049583775653889/1751570867",
+                              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921237222902169600/8QRmjOtg_normal.jpg",
+                              "profile_interstitial_type": "",
+                              "screen_name": "LilicJohn",
+                              "statuses_count": 2722,
+                              "translator_type": "none",
+                              "url": "https://t.co/98ymCqZ35g",
+                              "verified": false,
+                              "want_retweets": false,
+                              "withheld_in_countries": []
+                            },
+                            "profile_image_shape": "Circle",
+                            "professional": {
+                              "rest_id": "1743060008844304603",
+                              "professional_type": "Business",
+                              "category": [
+                                {
+                                  "id": 1009,
+                                  "name": "Community",
+                                  "icon_name": "IconBriefcaseStroke"
+                                }
+                              ]
+                            },
+                            "tipjar_settings": {}
+                          }
+                        }
+                      },
+                      "unmention_data": {},
+                      "edit_control": {
+                        "edit_tweet_ids": [
+                          "1939764384160743841"
+                        ],
+                        "editable_until_msecs": "1751314442000",
+                        "is_edit_eligible": true,
+                        "edits_remaining": "5"
+                      },
+                      "is_translatable": false,
+                      "views": {
+                        "count": "7895",
+                        "state": "EnabledWithCount"
+                      },
+                      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                      "legacy": {
+                        "bookmark_count": 10,
+                        "bookmarked": false,
+                        "created_at": "Mon Jun 30 19:14:02 +0000 2025",
+                        "conversation_id_str": "1939764384160743841",
+                        "display_text_range": [
+                          0,
+                          279
+                        ],
+                        "entities": {
+                          "hashtags": [],
+                          "media": [
+                            {
+                              "display_url": "pic.x.com/C0Yt8jXEJB",
+                              "expanded_url": "https://x.com/LilicJohn/status/1939764384160743841/photo/1",
+                              "id_str": "1939764375633502208",
+                              "indices": [
+                                280,
+                                303
+                              ],
+                              "media_key": "3_1939764375633502208",
+                              "media_url_https": "https://pbs.twimg.com/media/GuttbB2XoAAy2T-.jpg",
+                              "type": "photo",
+                              "url": "https://t.co/C0Yt8jXEJB",
+                              "ext_media_availability": {
+                                "status": "Available"
+                              },
+                              "features": {
+                                "large": {
+                                  "faces": []
+                                },
+                                "medium": {
+                                  "faces": []
+                                },
+                                "small": {
+                                  "faces": []
+                                },
+                                "orig": {
+                                  "faces": []
+                                }
+                              },
+                              "sizes": {
+                                "large": {
+                                  "h": 1536,
+                                  "w": 2048,
+                                  "resize": "fit"
+                                },
+                                "medium": {
+                                  "h": 900,
+                                  "w": 1200,
+                                  "resize": "fit"
+                                },
+                                "small": {
+                                  "h": 510,
+                                  "w": 680,
+                                  "resize": "fit"
+                                },
+                                "thumb": {
+                                  "h": 150,
+                                  "w": 150,
+                                  "resize": "crop"
+                                }
+                              },
+                              "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                  {
+                                    "x": 0,
+                                    "y": 389,
+                                    "w": 2048,
+                                    "h": 1147
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 76,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1536
+                                  }
+                                ]
+                              },
+                              "media_results": {
+                                "result": {
+                                  "media_key": "3_1939764375633502208"
+                                }
+                              }
+                            },
+                            {
+                              "display_url": "pic.x.com/C0Yt8jXEJB",
+                              "expanded_url": "https://x.com/LilicJohn/status/1939764384160743841/photo/1",
+                              "id_str": "1939764375629217792",
+                              "indices": [
+                                280,
+                                303
+                              ],
+                              "media_key": "3_1939764375629217792",
+                              "media_url_https": "https://pbs.twimg.com/media/GuttbB1WQAADRLX.jpg",
+                              "type": "photo",
+                              "url": "https://t.co/C0Yt8jXEJB",
+                              "ext_media_availability": {
+                                "status": "Available"
+                              },
+                              "features": {
+                                "large": {
+                                  "faces": [
+                                    {
+                                      "x": 434,
+                                      "y": 862,
+                                      "h": 74,
+                                      "w": 74
+                                    }
+                                  ]
+                                },
+                                "medium": {
+                                  "faces": [
+                                    {
+                                      "x": 254,
+                                      "y": 505,
+                                      "h": 43,
+                                      "w": 43
+                                    }
+                                  ]
+                                },
+                                "small": {
+                                  "faces": [
+                                    {
+                                      "x": 144,
+                                      "y": 286,
+                                      "h": 24,
+                                      "w": 24
+                                    }
+                                  ]
+                                },
+                                "orig": {
+                                  "faces": [
+                                    {
+                                      "x": 434,
+                                      "y": 862,
+                                      "h": 74,
+                                      "w": 74
+                                    }
+                                  ]
+                                }
+                              },
+                              "sizes": {
+                                "large": {
+                                  "h": 1536,
+                                  "w": 2048,
+                                  "resize": "fit"
+                                },
+                                "medium": {
+                                  "h": 900,
+                                  "w": 1200,
+                                  "resize": "fit"
+                                },
+                                "small": {
+                                  "h": 510,
+                                  "w": 680,
+                                  "resize": "fit"
+                                },
+                                "thumb": {
+                                  "h": 150,
+                                  "w": 150,
+                                  "resize": "crop"
+                                }
+                              },
+                              "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                  {
+                                    "x": 0,
+                                    "y": 389,
+                                    "w": 2048,
+                                    "h": 1147
+                                  },
+                                  {
+                                    "x": 512,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 607,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 896,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1536
+                                  }
+                                ]
+                              },
+                              "media_results": {
+                                "result": {
+                                  "media_key": "3_1939764375629217792"
+                                }
+                              }
+                            },
+                            {
+                              "display_url": "pic.x.com/C0Yt8jXEJB",
+                              "expanded_url": "https://x.com/LilicJohn/status/1939764384160743841/photo/1",
+                              "id_str": "1939764375637590016",
+                              "indices": [
+                                280,
+                                303
+                              ],
+                              "media_key": "3_1939764375637590016",
+                              "media_url_https": "https://pbs.twimg.com/media/GuttbB3WAAAMRsv.jpg",
+                              "type": "photo",
+                              "url": "https://t.co/C0Yt8jXEJB",
+                              "ext_media_availability": {
+                                "status": "Available"
+                              },
+                              "features": {
+                                "large": {
+                                  "faces": []
+                                },
+                                "medium": {
+                                  "faces": []
+                                },
+                                "small": {
+                                  "faces": []
+                                },
+                                "orig": {
+                                  "faces": []
+                                }
+                              },
+                              "sizes": {
+                                "large": {
+                                  "h": 1536,
+                                  "w": 2048,
+                                  "resize": "fit"
+                                },
+                                "medium": {
+                                  "h": 900,
+                                  "w": 1200,
+                                  "resize": "fit"
+                                },
+                                "small": {
+                                  "h": 510,
+                                  "w": 680,
+                                  "resize": "fit"
+                                },
+                                "thumb": {
+                                  "h": 150,
+                                  "w": 150,
+                                  "resize": "crop"
+                                }
+                              },
+                              "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1147
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1536
+                                  }
+                                ]
+                              },
+                              "allow_download_status": {
+                                "allow_download": true
+                              },
+                              "media_results": {
+                                "result": {
+                                  "media_key": "3_1939764375637590016"
+                                }
+                              }
+                            }
+                          ],
+                          "symbols": [],
+                          "timestamps": [],
+                          "urls": [],
+                          "user_mentions": [
+                            {
+                              "id_str": "738485554048860160",
+                              "name": "EthCC - Ethereum Community Conference",
+                              "screen_name": "EthCC",
+                              "indices": [
+                                97,
+                                103
+                              ]
+                            },
+                            {
+                              "id_str": "974502587872395264",
+                              "name": "FRG",
+                              "screen_name": "fabgenovese",
+                              "indices": [
+                                154,
+                                166
+                              ]
+                            },
+                            {
+                              "id_str": "1854120781401272339",
+                              "name": "NeverLocal",
+                              "screen_name": "nvrlcl",
+                              "indices": [
+                                172,
+                                179
+                              ]
+                            },
+                            {
+                              "id_str": "23515941",
+                              "name": "asanso.eth",
+                              "screen_name": "asanso",
+                              "indices": [
+                                186,
+                                193
+                              ]
+                            },
+                            {
+                              "id_str": "1529875152460193794",
+                              "name": "Ethereum Foundation",
+                              "screen_name": "ethereumfndn",
+                              "indices": [
+                                199,
+                                212
+                              ]
+                            }
+                          ]
+                        },
+                        "extended_entities": {
+                          "media": [
+                            {
+                              "display_url": "pic.x.com/C0Yt8jXEJB",
+                              "expanded_url": "https://x.com/LilicJohn/status/1939764384160743841/photo/1",
+                              "id_str": "1939764375633502208",
+                              "indices": [
+                                280,
+                                303
+                              ],
+                              "media_key": "3_1939764375633502208",
+                              "media_url_https": "https://pbs.twimg.com/media/GuttbB2XoAAy2T-.jpg",
+                              "type": "photo",
+                              "url": "https://t.co/C0Yt8jXEJB",
+                              "ext_media_availability": {
+                                "status": "Available"
+                              },
+                              "features": {
+                                "large": {
+                                  "faces": []
+                                },
+                                "medium": {
+                                  "faces": []
+                                },
+                                "small": {
+                                  "faces": []
+                                },
+                                "orig": {
+                                  "faces": []
+                                }
+                              },
+                              "sizes": {
+                                "large": {
+                                  "h": 1536,
+                                  "w": 2048,
+                                  "resize": "fit"
+                                },
+                                "medium": {
+                                  "h": 900,
+                                  "w": 1200,
+                                  "resize": "fit"
+                                },
+                                "small": {
+                                  "h": 510,
+                                  "w": 680,
+                                  "resize": "fit"
+                                },
+                                "thumb": {
+                                  "h": 150,
+                                  "w": 150,
+                                  "resize": "crop"
+                                }
+                              },
+                              "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                  {
+                                    "x": 0,
+                                    "y": 389,
+                                    "w": 2048,
+                                    "h": 1147
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 76,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1536
+                                  }
+                                ]
+                              },
+                              "media_results": {
+                                "result": {
+                                  "media_key": "3_1939764375633502208"
+                                }
+                              }
+                            },
+                            {
+                              "display_url": "pic.x.com/C0Yt8jXEJB",
+                              "expanded_url": "https://x.com/LilicJohn/status/1939764384160743841/photo/1",
+                              "id_str": "1939764375629217792",
+                              "indices": [
+                                280,
+                                303
+                              ],
+                              "media_key": "3_1939764375629217792",
+                              "media_url_https": "https://pbs.twimg.com/media/GuttbB1WQAADRLX.jpg",
+                              "type": "photo",
+                              "url": "https://t.co/C0Yt8jXEJB",
+                              "ext_media_availability": {
+                                "status": "Available"
+                              },
+                              "features": {
+                                "large": {
+                                  "faces": [
+                                    {
+                                      "x": 434,
+                                      "y": 862,
+                                      "h": 74,
+                                      "w": 74
+                                    }
+                                  ]
+                                },
+                                "medium": {
+                                  "faces": [
+                                    {
+                                      "x": 254,
+                                      "y": 505,
+                                      "h": 43,
+                                      "w": 43
+                                    }
+                                  ]
+                                },
+                                "small": {
+                                  "faces": [
+                                    {
+                                      "x": 144,
+                                      "y": 286,
+                                      "h": 24,
+                                      "w": 24
+                                    }
+                                  ]
+                                },
+                                "orig": {
+                                  "faces": [
+                                    {
+                                      "x": 434,
+                                      "y": 862,
+                                      "h": 74,
+                                      "w": 74
+                                    }
+                                  ]
+                                }
+                              },
+                              "sizes": {
+                                "large": {
+                                  "h": 1536,
+                                  "w": 2048,
+                                  "resize": "fit"
+                                },
+                                "medium": {
+                                  "h": 900,
+                                  "w": 1200,
+                                  "resize": "fit"
+                                },
+                                "small": {
+                                  "h": 510,
+                                  "w": 680,
+                                  "resize": "fit"
+                                },
+                                "thumb": {
+                                  "h": 150,
+                                  "w": 150,
+                                  "resize": "crop"
+                                }
+                              },
+                              "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                  {
+                                    "x": 0,
+                                    "y": 389,
+                                    "w": 2048,
+                                    "h": 1147
+                                  },
+                                  {
+                                    "x": 512,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 607,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 896,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1536
+                                  }
+                                ]
+                              },
+                              "media_results": {
+                                "result": {
+                                  "media_key": "3_1939764375629217792"
+                                }
+                              }
+                            },
+                            {
+                              "display_url": "pic.x.com/C0Yt8jXEJB",
+                              "expanded_url": "https://x.com/LilicJohn/status/1939764384160743841/photo/1",
+                              "id_str": "1939764375637590016",
+                              "indices": [
+                                280,
+                                303
+                              ],
+                              "media_key": "3_1939764375637590016",
+                              "media_url_https": "https://pbs.twimg.com/media/GuttbB3WAAAMRsv.jpg",
+                              "type": "photo",
+                              "url": "https://t.co/C0Yt8jXEJB",
+                              "ext_media_availability": {
+                                "status": "Available"
+                              },
+                              "features": {
+                                "large": {
+                                  "faces": []
+                                },
+                                "medium": {
+                                  "faces": []
+                                },
+                                "small": {
+                                  "faces": []
+                                },
+                                "orig": {
+                                  "faces": []
+                                }
+                              },
+                              "sizes": {
+                                "large": {
+                                  "h": 1536,
+                                  "w": 2048,
+                                  "resize": "fit"
+                                },
+                                "medium": {
+                                  "h": 900,
+                                  "w": 1200,
+                                  "resize": "fit"
+                                },
+                                "small": {
+                                  "h": 510,
+                                  "w": 680,
+                                  "resize": "fit"
+                                },
+                                "thumb": {
+                                  "h": 150,
+                                  "w": 150,
+                                  "resize": "crop"
+                                }
+                              },
+                              "original_info": {
+                                "height": 1536,
+                                "width": 2048,
+                                "focus_rects": [
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1147
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1536,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 1347,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 768,
+                                    "h": 1536
+                                  },
+                                  {
+                                    "x": 0,
+                                    "y": 0,
+                                    "w": 2048,
+                                    "h": 1536
+                                  }
+                                ]
+                              },
+                              "allow_download_status": {
+                                "allow_download": true
+                              },
+                              "media_results": {
+                                "result": {
+                                  "media_key": "3_1939764375637590016"
+                                }
+                              }
+                            }
+                          ]
+                        },
+                        "favorite_count": 68,
+                        "favorited": false,
+                        "full_text": "While everyone is talking about tokenizing stocks, two seminal &amp; monumental quantum talks at @EthCC today from two of best q researchers in the world @fabgenovese from @nvrlcl &amp; @asanso from @ethereumfndn. The future of everything blockchain depends on this kind of work. https://t.co/C0Yt8jXEJB",
+                        "is_quote_status": false,
+                        "lang": "en",
+                        "possibly_sensitive": false,
+                        "possibly_sensitive_editable": true,
+                        "quote_count": 2,
+                        "reply_count": 8,
+                        "retweet_count": 15,
+                        "retweeted": false,
+                        "user_id_str": "1743049583775653889",
+                        "id_str": "1939764384160743841"
+                      },
+                      "quick_promote_eligibility": {
+                        "eligibility": "IneligibleNotProfessional"
+                      }
+                    }
+                  },
+                  "tweetDisplayType": "Tweet",
+                  "hasModeratedReplies": true
+                },
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet"
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1940467993500438762",
+              "sortIndex": "7283607652694031956",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1940467993500438762-tweet-1940467993500438762",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1940467993500438762",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjozNDE1NTQyNTMx",
+                                  "rest_id": "3415542531",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": true,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Tue Aug 11 16:09:47 +0000 2015",
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "Cryptography, Blockchain, Mathematics, Clarinet. \nResearch @eotvos_uni.",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "istvanseres.web.elte.hu",
+                                            "expanded_url": "http://istvanseres.web.elte.hu/",
+                                            "url": "https://t.co/p8efMUAUbF",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 2891,
+                                    "followers_count": 1480,
+                                    "friends_count": 514,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 44,
+                                    "location": "Budapest, Magyarország",
+                                    "media_count": 273,
+                                    "name": "Seres István András",
+                                    "normal_followers_count": 1480,
+                                    "pinned_tweet_ids_str": [
+                                      "1899387673795604652"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3415542531/1552735557",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1897718737295343616/qilpq2r3_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "Istvan_A_Seres",
+                                    "statuses_count": 845,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/p8efMUAUbF",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "card": {
+                              "rest_id": "https://t.co/LbmojkEtdE",
+                              "legacy": {
+                                "binding_values": [
+                                  {
+                                    "key": "player_url",
+                                    "value": {
+                                      "string_value": "https://www.youtube.com/embed/vD854wtMBGk",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "player_image_large",
+                                    "value": {
+                                      "image_value": {
+                                        "height": 320,
+                                        "width": 569,
+                                        "url": "https://pbs.twimg.com/card_img/1943033002197397504/MTHPWpka?format=jpg&name=800x320_1"
+                                      },
+                                      "type": "IMAGE"
+                                    }
+                                  },
+                                  {
+                                    "key": "player_image",
+                                    "value": {
+                                      "image_value": {
+                                        "height": 158,
+                                        "width": 280,
+                                        "url": "https://pbs.twimg.com/card_img/1943033002197397504/MTHPWpka?format=jpg&name=280x280"
+                                      },
+                                      "type": "IMAGE"
+                                    }
+                                  },
+                                  {
+                                    "key": "app_star_rating",
+                                    "value": {
+                                      "string_value": "4.68063",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "description",
+                                    "value": {
+                                      "string_value": "Quantum computers pose a threat to Ethereum. How do we transition into a post-quantum era? We built an open-source library to tackle this challenge! Meet:\"po...",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "player_width",
+                                    "value": {
+                                      "string_value": "1280",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "domain",
+                                    "value": {
+                                      "string_value": "www.youtube.com",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "app_is_free",
+                                    "value": {
+                                      "string_value": "true",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "site",
+                                    "value": {
+                                      "scribe_key": "publisher_id",
+                                      "type": "USER",
+                                      "user_value": {
+                                        "id_str": "10228272",
+                                        "path": []
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "key": "player_image_original",
+                                    "value": {
+                                      "image_value": {
+                                        "height": 720,
+                                        "width": 1280,
+                                        "url": "https://pbs.twimg.com/card_img/1943033002197397504/MTHPWpka?format=jpg&name=orig"
+                                      },
+                                      "type": "IMAGE"
+                                    }
+                                  },
+                                  {
+                                    "key": "app_num_ratings",
+                                    "value": {
+                                      "string_value": "42,646,898",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "app_price_amount",
+                                    "value": {
+                                      "string_value": "0.0",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "player_height",
+                                    "value": {
+                                      "string_value": "720",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "vanity_url",
+                                    "value": {
+                                      "scribe_key": "vanity_url",
+                                      "string_value": "youtube.com",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "app_name",
+                                    "value": {
+                                      "string_value": "YouTube",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "player_image_small",
+                                    "value": {
+                                      "image_value": {
+                                        "height": 81,
+                                        "width": 144,
+                                        "url": "https://pbs.twimg.com/card_img/1943033002197397504/MTHPWpka?format=jpg&name=144x144"
+                                      },
+                                      "type": "IMAGE"
+                                    }
+                                  },
+                                  {
+                                    "key": "title",
+                                    "value": {
+                                      "string_value": "István András Seres (Eötvös Loránd University)_poqeth: Efficient,...",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "app_price_currency",
+                                    "value": {
+                                      "string_value": "USD",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "card_url",
+                                    "value": {
+                                      "scribe_key": "card_url",
+                                      "string_value": "https://t.co/LbmojkEtdE",
+                                      "type": "STRING"
+                                    }
+                                  },
+                                  {
+                                    "key": "player_image_color",
+                                    "value": {
+                                      "image_color_value": {
+                                        "palette": [
+                                          {
+                                            "rgb": {
+                                              "blue": 104,
+                                              "green": 78,
+                                              "red": 1
+                                            },
+                                            "percentage": 93.97
+                                          },
+                                          {
+                                            "rgb": {
+                                              "blue": 203,
+                                              "green": 198,
+                                              "red": 170
+                                            },
+                                            "percentage": 3.17
+                                          },
+                                          {
+                                            "rgb": {
+                                              "blue": 91,
+                                              "green": 131,
+                                              "red": 185
+                                            },
+                                            "percentage": 0.39
+                                          },
+                                          {
+                                            "rgb": {
+                                              "blue": 67,
+                                              "green": 147,
+                                              "red": 62
+                                            },
+                                            "percentage": 0.35
+                                          },
+                                          {
+                                            "rgb": {
+                                              "blue": 114,
+                                              "green": 200,
+                                              "red": 227
+                                            },
+                                            "percentage": 0.26
+                                          }
+                                        ]
+                                      },
+                                      "type": "IMAGE_COLOR"
+                                    }
+                                  },
+                                  {
+                                    "key": "player_image_x_large",
+                                    "value": {
+                                      "image_value": {
+                                        "height": 720,
+                                        "width": 1280,
+                                        "url": "https://pbs.twimg.com/card_img/1943033002197397504/MTHPWpka?format=png&name=2048x2048_2_exp"
+                                      },
+                                      "type": "IMAGE"
+                                    }
+                                  }
+                                ],
+                                "card_platform": {
+                                  "platform": {
+                                    "audience": {
+                                      "name": "production"
+                                    },
+                                    "device": {
+                                      "name": "Swift",
+                                      "version": "12"
+                                    }
+                                  }
+                                },
+                                "name": "player",
+                                "url": "https://t.co/LbmojkEtdE",
+                                "user_refs_results": [
+                                  {
+                                    "result": {
+                                      "__typename": "User",
+                                      "id": "VXNlcjoxMDIyODI3Mg==",
+                                      "rest_id": "10228272",
+                                      "affiliates_highlighted_label": {},
+                                      "has_graduated_access": true,
+                                      "is_blue_verified": true,
+                                      "legacy": {
+                                        "following": false,
+                                        "can_dm": false,
+                                        "can_media_tag": true,
+                                        "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+                                        "default_profile": false,
+                                        "default_profile_image": false,
+                                        "description": "like & subscribe",
+                                        "entities": {
+                                          "description": {
+                                            "urls": []
+                                          },
+                                          "url": {
+                                            "urls": [
+                                              {
+                                                "display_url": "yt.be/3NDRz",
+                                                "expanded_url": "https://yt.be/3NDRz",
+                                                "url": "https://t.co/WBV5E1Rh1y",
+                                                "indices": [
+                                                  0,
+                                                  23
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        },
+                                        "fast_followers_count": 0,
+                                        "favourites_count": 6060,
+                                        "followers_count": 78994505,
+                                        "friends_count": 1148,
+                                        "has_custom_timelines": true,
+                                        "is_translator": false,
+                                        "listed_count": 77694,
+                                        "location": "San Bruno, CA",
+                                        "media_count": 16017,
+                                        "name": "YouTube",
+                                        "normal_followers_count": 78994505,
+                                        "pinned_tweet_ids_str": [],
+                                        "possibly_sensitive": false,
+                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1745416765",
+                                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1915882040353837056/VbhPvueq_normal.jpg",
+                                        "profile_interstitial_type": "",
+                                        "screen_name": "YouTube",
+                                        "statuses_count": 60068,
+                                        "translator_type": "regular",
+                                        "url": "https://t.co/WBV5E1Rh1y",
+                                        "verified": false,
+                                        "verified_type": "Business",
+                                        "want_retweets": false,
+                                        "withheld_in_countries": []
+                                      },
+                                      "profile_image_shape": "Square",
+                                      "tipjar_settings": {}
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1940467993500438762"
+                              ],
+                              "editable_until_msecs": "1751482196000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "504",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Wed Jul 02 17:49:56 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                61,
+                                335
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [
+                                  {
+                                    "display_url": "eprint.iacr.org/2025/091.pdf",
+                                    "expanded_url": "https://eprint.iacr.org/2025/091.pdf",
+                                    "url": "https://t.co/qBLIjQBpaZ",
+                                    "indices": [
+                                      255,
+                                      278
+                                    ]
+                                  },
+                                  {
+                                    "display_url": "github.com/ruslan-ilesik/…",
+                                    "expanded_url": "https://github.com/ruslan-ilesik/poqeth",
+                                    "url": "https://t.co/ex7RoTUXZy",
+                                    "indices": [
+                                      286,
+                                      309
+                                    ]
+                                  },
+                                  {
+                                    "display_url": "youtube.com/watch?v=vD854w…",
+                                    "expanded_url": "https://www.youtube.com/watch?v=vD854wtMBGk",
+                                    "url": "https://t.co/LbmojkEtdE",
+                                    "indices": [
+                                      312,
+                                      335
+                                    ]
+                                  }
+                                ],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "1743049583775653889",
+                                    "name": "John Lilic",
+                                    "screen_name": "LilicJohn",
+                                    "indices": [
+                                      0,
+                                      10
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      11,
+                                      17
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      18,
+                                      30
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      31,
+                                      38
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      39,
+                                      46
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      47,
+                                      60
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 7,
+                              "favorited": false,
+                              "full_text": "@LilicJohn @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn ICYMI \n\n🔏We built an open-source Solidity library to verify NIST/IETF standardized PQ signatures (W-OTS+, XMSS, SPHINCS+, and MAYO) in the EVM for PQ-secure transactions. \n\n📄Paper (AsiaCCS'25): https://t.co/qBLIjQBpaZ\n💻Repo: https://t.co/ex7RoTUXZy\n\n🎥https://t.co/LbmojkEtdE",
+                              "in_reply_to_screen_name": "LilicJohn",
+                              "in_reply_to_status_id_str": "1939764384160743841",
+                              "in_reply_to_user_id_str": "1743049583775653889",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "possibly_sensitive": false,
+                              "possibly_sensitive_editable": true,
+                              "quote_count": 0,
+                              "reply_count": 1,
+                              "retweet_count": 1,
+                              "retweeted": false,
+                              "user_id_str": "3415542531",
+                              "id_str": "1940467993500438762"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSAKCGBXgBUKAAIAAAAAFQIgCAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "conversationthread-1940467993500438762-tweet-1940468385537749246",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1940468385537749246",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNzQzMDQ5NTgzNzc1NjUzODg5",
+                                  "rest_id": "1743049583775653889",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": true,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Thu Jan 04 23:20:02 +0000 2024",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "Builder, VC, Philanthropist. Q Pill @nvrlcl Banking @nordarkhq Algo @hilbertcapital Co-founder @codetoinspire 501(c)3 Ex @BitcoinCenterNY @consensys @0xPolygon",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "johnlilic.info",
+                                            "expanded_url": "https://www.johnlilic.info/",
+                                            "url": "https://t.co/98ymCqZ35g",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 3492,
+                                    "followers_count": 4718,
+                                    "friends_count": 1802,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 55,
+                                    "location": "Global coverage",
+                                    "media_count": 307,
+                                    "name": "John Lilic",
+                                    "normal_followers_count": 4718,
+                                    "pinned_tweet_ids_str": [
+                                      "1880100229267247152"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743049583775653889/1751570867",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921237222902169600/8QRmjOtg_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "LilicJohn",
+                                    "statuses_count": 2722,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/98ymCqZ35g",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "professional": {
+                                    "rest_id": "1743060008844304603",
+                                    "professional_type": "Business",
+                                    "category": [
+                                      {
+                                        "id": 1009,
+                                        "name": "Community",
+                                        "icon_name": "IconBriefcaseStroke"
+                                      }
+                                    ]
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1940468385537749246"
+                              ],
+                              "editable_until_msecs": "1751482289000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "104",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Wed Jul 02 17:51:29 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                66,
+                                76
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "3415542531",
+                                    "name": "Seres István András",
+                                    "screen_name": "Istvan_A_Seres",
+                                    "indices": [
+                                      0,
+                                      15
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      16,
+                                      22
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      23,
+                                      35
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      36,
+                                      43
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      44,
+                                      51
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      52,
+                                      65
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 4,
+                              "favorited": false,
+                              "full_text": "@Istvan_A_Seres @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn Very cool.",
+                              "in_reply_to_screen_name": "Istvan_A_Seres",
+                              "in_reply_to_status_id_str": "1940467993500438762",
+                              "in_reply_to_user_id_str": "3415542531",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1743049583775653889",
+                              "id_str": "1940468385537749246"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSAKkKIDgYEKAAIAAAAAFAIASAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet",
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1939768985819721959",
+              "sortIndex": "7283607652694031946",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1939768985819721959-tweet-1939768985819721959",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1939768985819721959",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNDUyNzY5OQ==",
+                                  "rest_id": "14527699",
+                                  "affiliates_highlighted_label": {
+                                    "label": {
+                                      "url": {
+                                        "url": "https://twitter.com/TaprootWizards",
+                                        "urlType": "DeepLink"
+                                      },
+                                      "badge": {
+                                        "url": "https://pbs.twimg.com/profile_images/1620589771038023680/PewlwV9H_bigger.jpg"
+                                      },
+                                      "description": "Taproot Wizards",
+                                      "userLabelType": "BusinessLabel",
+                                      "userLabelDisplayType": "Badge"
+                                    }
+                                  },
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": true,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": true,
+                                    "can_media_tag": false,
+                                    "created_at": "Fri Apr 25 15:21:10 +0000 2008",
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "customer support intern @TaprootWizards 🧙‍♂️",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "discord.gg/taprootwizards",
+                                            "expanded_url": "https://discord.gg/taprootwizards",
+                                            "url": "https://t.co/QjGc29qg3M",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 178512,
+                                    "followers_count": 221199,
+                                    "friends_count": 6753,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 3347,
+                                    "location": "join us ➡️",
+                                    "media_count": 6701,
+                                    "name": "Udi Wertheimer",
+                                    "normal_followers_count": 221199,
+                                    "pinned_tweet_ids_str": [
+                                      "1621176136142045191"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14527699/1713828046",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1899559293159952384/xpng4kz2_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "udiWertheimer",
+                                    "statuses_count": 121219,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/QjGc29qg3M",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "tipjar_settings": {
+                                    "is_enabled": false,
+                                    "bitcoin_handle": "3MkFpmevfbgTnExRpVFBbm6A6tA1Y7bDPP",
+                                    "ethereum_handle": "0x7970ff58186B0F9DCEcE2DCe000cb50Bdf7aA617"
+                                  },
+                                  "super_follow_eligible": true
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1939768985819721959"
+                              ],
+                              "editable_until_msecs": "1751315540000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "442",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Jun 30 19:32:20 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                61,
+                                125
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "1743049583775653889",
+                                    "name": "John Lilic",
+                                    "screen_name": "LilicJohn",
+                                    "indices": [
+                                      0,
+                                      10
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      11,
+                                      17
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      18,
+                                      30
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      31,
+                                      38
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      39,
+                                      46
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      47,
+                                      60
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 5,
+                              "favorited": false,
+                              "full_text": "@LilicJohn @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn how long do you estimate until this becomes an immediate problem",
+                              "in_reply_to_screen_name": "LilicJohn",
+                              "in_reply_to_status_id_str": "1939764384160743841",
+                              "in_reply_to_user_id_str": "1743049583775653889",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 1,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "14527699",
+                              "id_str": "1939768985819721959"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSACCSQDgAUKAAIAAAAAGAJACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "conversationthread-1939768985819721959-tweet-1939769845685350900",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1939769845685350900",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxNzQzMDQ5NTgzNzc1NjUzODg5",
+                                  "rest_id": "1743049583775653889",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": true,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Thu Jan 04 23:20:02 +0000 2024",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "Builder, VC, Philanthropist. Q Pill @nvrlcl Banking @nordarkhq Algo @hilbertcapital Co-founder @codetoinspire 501(c)3 Ex @BitcoinCenterNY @consensys @0xPolygon",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "johnlilic.info",
+                                            "expanded_url": "https://www.johnlilic.info/",
+                                            "url": "https://t.co/98ymCqZ35g",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 3492,
+                                    "followers_count": 4718,
+                                    "friends_count": 1802,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 55,
+                                    "location": "Global coverage",
+                                    "media_count": 307,
+                                    "name": "John Lilic",
+                                    "normal_followers_count": 4718,
+                                    "pinned_tweet_ids_str": [
+                                      "1880100229267247152"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743049583775653889/1751570867",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1921237222902169600/8QRmjOtg_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "LilicJohn",
+                                    "statuses_count": 2722,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/98ymCqZ35g",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "professional": {
+                                    "rest_id": "1743060008844304603",
+                                    "professional_type": "Business",
+                                    "category": [
+                                      {
+                                        "id": 1009,
+                                        "name": "Community",
+                                        "icon_name": "IconBriefcaseStroke"
+                                      }
+                                    ]
+                                  },
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1939769845685350900"
+                              ],
+                              "editable_until_msecs": "1751315745000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "823",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                            "note_tweet": {
+                              "is_expandable": true,
+                              "note_tweet_results": {
+                                "result": {
+                                  "id": "Tm90ZVR3ZWV0OjE5Mzk3Njk4NDU2MTQwNjM2MTY=",
+                                  "text": "Depends on which roadmaps you believe. IonQ says 2500 logical qubits by 2028. IBM 200 logical qubits. If you overlay roadmaps of everyone from DARPA to Riverlane & everyone else then convergence seems to be around 2029-30. I guess military/intelligence will capabilities before market.",
+                                  "entity_set": {
+                                    "hashtags": [],
+                                    "symbols": [],
+                                    "urls": [],
+                                    "user_mentions": []
+                                  },
+                                  "richtext": {
+                                    "richtext_tags": []
+                                  },
+                                  "media": {
+                                    "inline_media": []
+                                  }
+                                }
+                              }
+                            },
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Jun 30 19:35:45 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                65,
+                                346
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "14527699",
+                                    "name": "Udi Wizardheimer",
+                                    "screen_name": "udiWertheimer",
+                                    "indices": [
+                                      0,
+                                      14
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      15,
+                                      21
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      22,
+                                      34
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      35,
+                                      42
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      43,
+                                      50
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      51,
+                                      64
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 4,
+                              "favorited": false,
+                              "full_text": "@udiWertheimer @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn Depends on which roadmaps you believe. IonQ says 2500 logical qubits by 2028. IBM 200 logical qubits. If you overlay roadmaps of everyone from DARPA to Riverlane &amp; everyone else then convergence seems to be around 2029-30. I guess military/intelligence will capabilities before",
+                              "in_reply_to_screen_name": "udiWertheimer",
+                              "in_reply_to_status_id_str": "1939768985819721959",
+                              "in_reply_to_user_id_str": "14527699",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 1,
+                              "reply_count": 2,
+                              "retweet_count": 1,
+                              "retweeted": false,
+                              "user_id_str": "1743049583775653889",
+                              "id_str": "1939769845685350900"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSACEigDgYEKAAIAAAAAGAIASAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "entryId": "conversationthread-1939768985819721959-cursor-showmore-3130560557669848746",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTimelineCursor",
+                        "__typename": "TimelineTimelineCursor",
+                        "value": "PAAAAPAtPBwcFujHt-G2mbnrNRUCAAAYJmNvbnZlcnNhdGlvbnRocmVhZC0xOTM5NzY4OTg1ODE5NzIxOTU5IgAA",
+                        "cursorType": "ShowMore",
+                        "displayTreatment": {
+                          "actionText": "Show replies"
+                        }
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet",
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1939771563009577432",
+              "sortIndex": "7283607652694031936",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1939771563009577432-tweet-1939771563009577432",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1939771563009577432",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoyNDQxNzkzOTk=",
+                                  "rest_id": "244179399",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": true,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": false,
+                                    "created_at": "Fri Jan 28 18:01:12 +0000 2011",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "https://t.co/PsrhItILYZ unlocking $3 Trillion liquidity. Permissionless universal control #BitFi #DeFi will change the world #MathsIsMagical - My views only",
+                                    "entities": {
+                                      "description": {
+                                        "urls": [
+                                          {
+                                            "display_url": "x.com/gvnrdao",
+                                            "expanded_url": "https://x.com/gvnrdao",
+                                            "url": "https://t.co/PsrhItILYZ",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 24001,
+                                    "followers_count": 4202,
+                                    "friends_count": 5875,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 167,
+                                    "location": "London, UK",
+                                    "media_count": 1858,
+                                    "name": "Benjamin Whitby GVNR.xyz 🔗🦇🔊",
+                                    "normal_followers_count": 4202,
+                                    "pinned_tweet_ids_str": [
+                                      "1938545015925657957"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/244179399/1748883058",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235845341481594883/kDGrf4z9_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "benjaminjwhitby",
+                                    "statuses_count": 31486,
+                                    "translator_type": "none",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1939771563009577432"
+                              ],
+                              "editable_until_msecs": "1751316154000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "214",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Jun 30 19:42:34 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                61,
+                                79
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "1743049583775653889",
+                                    "name": "John Lilic",
+                                    "screen_name": "LilicJohn",
+                                    "indices": [
+                                      0,
+                                      10
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      11,
+                                      17
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      18,
+                                      30
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      31,
+                                      38
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      39,
+                                      46
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      47,
+                                      60
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@LilicJohn @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn High praise indeed",
+                              "in_reply_to_screen_name": "LilicJohn",
+                              "in_reply_to_status_id_str": "1939764384160743841",
+                              "in_reply_to_user_id_str": "1743049583775653889",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "244179399",
+                              "id_str": "1939771563009577432"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSACDDADgAUKAAIAAAAAGAJACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet",
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1939779847842320602",
+              "sortIndex": "7283607652694031926",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1939779847842320602-tweet-1939779847842320602",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1939779847842320602",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoxMzk2Mjk5MjU0",
+                                  "rest_id": "1396299254",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Thu May 02 05:06:41 +0000 2013",
+                                    "default_profile": false,
+                                    "default_profile_image": false,
+                                    "description": "alumni @HBSAlumni Ambassador @unblockeu CEO @SiliconVV Advisor CVVC @CV_Labs Director @GOLFIN_GL @GOLFIN_official Director @FukuokaGrind @GCG828 @GiftedDaRapper",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "siliconvalleyventures.site",
+                                            "expanded_url": "https://siliconvalleyventures.site/",
+                                            "url": "https://t.co/85UnlpHayw",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 351456,
+                                    "followers_count": 10171,
+                                    "friends_count": 6756,
+                                    "has_custom_timelines": true,
+                                    "is_translator": false,
+                                    "listed_count": 126,
+                                    "location": "Japan　",
+                                    "media_count": 10804,
+                                    "name": "John Kojiro Moriwaka: AI,Web3,Quantum,Fusion,Space",
+                                    "normal_followers_count": 10171,
+                                    "pinned_tweet_ids_str": [
+                                      "1633278328072450048"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1396299254/1737044342",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1870830491454353408/700oHrV6_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "KojiroMoriwaka",
+                                    "statuses_count": 50380,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/85UnlpHayw",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "tipjar_settings": {}
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1939779847842320602"
+                              ],
+                              "editable_until_msecs": "1751318129000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "163",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Jun 30 20:15:29 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                61,
+                                72
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "1743049583775653889",
+                                    "name": "John Lilic",
+                                    "screen_name": "LilicJohn",
+                                    "indices": [
+                                      0,
+                                      10
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      11,
+                                      17
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      18,
+                                      30
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      31,
+                                      38
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      39,
+                                      46
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      47,
+                                      60
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@LilicJohn @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn amazing🦄💖⭐️",
+                              "in_reply_to_screen_name": "LilicJohn",
+                              "in_reply_to_status_id_str": "1939764384160743841",
+                              "in_reply_to_user_id_str": "1743049583775653889",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "1396299254",
+                              "id_str": "1939779847842320602"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSACCCADgAUKAAIAAAAACAJACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet",
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1939802989805396323",
+              "sortIndex": "7283607652694031916",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1939802989805396323-tweet-1939802989805396323",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1939802989805396323",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjoyNDIwODI1NQ==",
+                                  "rest_id": "24208255",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": true,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": true,
+                                    "can_media_tag": true,
+                                    "created_at": "Fri Mar 13 17:15:58 +0000 2009",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "🧐 Gem Hunter | DeFi & Market Insights | Follow for alpha threads",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "t.me/+kiRFSpG9vDJlM…",
+                                            "expanded_url": "http://t.me/+kiRFSpG9vDJlMDAy",
+                                            "url": "https://t.co/4ezx9e1QSW",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 30775,
+                                    "followers_count": 50227,
+                                    "friends_count": 2200,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 664,
+                                    "location": "Private Alpha ⮕",
+                                    "media_count": 3510,
+                                    "name": "Alpha Batcher",
+                                    "normal_followers_count": 50227,
+                                    "pinned_tweet_ids_str": [
+                                      "1943737581851881836"
+                                    ],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24208255/1708672014",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1760923975599673344/NeCpPRqE_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "alphabatcher",
+                                    "statuses_count": 23478,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/4ezx9e1QSW",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "tipjar_settings": {},
+                                  "super_follow_eligible": true
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1939802989805396323"
+                              ],
+                              "editable_until_msecs": "1751323647000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "182",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Mon Jun 30 21:47:27 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                61,
+                                179
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "1743049583775653889",
+                                    "name": "John Lilic",
+                                    "screen_name": "LilicJohn",
+                                    "indices": [
+                                      0,
+                                      10
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      11,
+                                      17
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      18,
+                                      30
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      31,
+                                      38
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      39,
+                                      46
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      47,
+                                      60
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@LilicJohn @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn feels like everyone’s staring at charts while real infra shifts are happening\n\nneed to pay more attention to this side",
+                              "in_reply_to_screen_name": "LilicJohn",
+                              "in_reply_to_status_id_str": "1939764384160743841",
+                              "in_reply_to_user_id_str": "1743049583775653889",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "24208255",
+                              "id_str": "1939802989805396323"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSACCCADgAUKAAIAAAAAGAJACAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet",
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "conversationthread-1940350536588681660",
+              "sortIndex": "7283607652694031906",
+              "content": {
+                "entryType": "TimelineTimelineModule",
+                "__typename": "TimelineTimelineModule",
+                "items": [
+                  {
+                    "entryId": "conversationthread-1940350536588681660-tweet-1940350536588681660",
+                    "item": {
+                      "itemContent": {
+                        "itemType": "TimelineTweet",
+                        "__typename": "TimelineTweet",
+                        "tweet_results": {
+                          "result": {
+                            "__typename": "Tweet",
+                            "rest_id": "1940350536588681660",
+                            "has_birdwatch_notes": false,
+                            "core": {
+                              "user_results": {
+                                "result": {
+                                  "__typename": "User",
+                                  "id": "VXNlcjo3NTk1OTU0ODA1MjMyMTg5NDQ=",
+                                  "rest_id": "759595480523218944",
+                                  "affiliates_highlighted_label": {},
+                                  "has_graduated_access": true,
+                                  "is_blue_verified": false,
+                                  "legacy": {
+                                    "following": false,
+                                    "can_dm": false,
+                                    "can_media_tag": true,
+                                    "created_at": "Sun Jul 31 03:44:09 +0000 2016",
+                                    "default_profile": true,
+                                    "default_profile_image": false,
+                                    "description": "||Web3 Enthusiasts ||Graphics Designer ||Space Host ||Community manager",
+                                    "entities": {
+                                      "description": {
+                                        "urls": []
+                                      },
+                                      "url": {
+                                        "urls": [
+                                          {
+                                            "display_url": "t.me/offixial_Sydne…",
+                                            "expanded_url": "https://t.me/offixial_SydneyPOW",
+                                            "url": "https://t.co/hNm2XSwPL0",
+                                            "indices": [
+                                              0,
+                                              23
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    "fast_followers_count": 0,
+                                    "favourites_count": 20095,
+                                    "followers_count": 727,
+                                    "friends_count": 667,
+                                    "has_custom_timelines": false,
+                                    "is_translator": false,
+                                    "listed_count": 3,
+                                    "location": "Web3",
+                                    "media_count": 188,
+                                    "name": "🆂🆈🅳🅽🅴🆈",
+                                    "normal_followers_count": 727,
+                                    "pinned_tweet_ids_str": [],
+                                    "possibly_sensitive": false,
+                                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/759595480523218944/1744418018",
+                                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1909883884143071232/-Sjlrvzx_normal.jpg",
+                                    "profile_interstitial_type": "",
+                                    "screen_name": "offixial_sydney",
+                                    "statuses_count": 6183,
+                                    "translator_type": "none",
+                                    "url": "https://t.co/hNm2XSwPL0",
+                                    "verified": false,
+                                    "want_retweets": false,
+                                    "withheld_in_countries": []
+                                  },
+                                  "profile_image_shape": "Circle",
+                                  "professional": {
+                                    "rest_id": "1853092298470404424",
+                                    "professional_type": "Business",
+                                    "category": [
+                                      {
+                                        "id": 15,
+                                        "name": "Entertainment & Recreation",
+                                        "icon_name": "IconBriefcaseStroke"
+                                      }
+                                    ]
+                                  },
+                                  "tipjar_settings": {
+                                    "is_enabled": true
+                                  }
+                                }
+                              }
+                            },
+                            "unmention_data": {},
+                            "edit_control": {
+                              "edit_tweet_ids": [
+                                "1940350536588681660"
+                              ],
+                              "editable_until_msecs": "1751454192000",
+                              "is_edit_eligible": false,
+                              "edits_remaining": "5"
+                            },
+                            "is_translatable": false,
+                            "views": {
+                              "count": "88",
+                              "state": "EnabledWithCount"
+                            },
+                            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                            "legacy": {
+                              "bookmark_count": 0,
+                              "bookmarked": false,
+                              "created_at": "Wed Jul 02 10:03:12 +0000 2025",
+                              "conversation_id_str": "1939764384160743841",
+                              "display_text_range": [
+                                61,
+                                304
+                              ],
+                              "entities": {
+                                "hashtags": [],
+                                "symbols": [],
+                                "timestamps": [],
+                                "urls": [],
+                                "user_mentions": [
+                                  {
+                                    "id_str": "1743049583775653889",
+                                    "name": "John Lilic",
+                                    "screen_name": "LilicJohn",
+                                    "indices": [
+                                      0,
+                                      10
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      11,
+                                      17
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      18,
+                                      30
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1854120781401272339",
+                                    "name": "NeverLocal",
+                                    "screen_name": "nvrlcl",
+                                    "indices": [
+                                      31,
+                                      38
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      39,
+                                      46
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "1529875152460193794",
+                                    "name": "Ethereum Foundation",
+                                    "screen_name": "ethereumfndn",
+                                    "indices": [
+                                      47,
+                                      60
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "974502587872395264",
+                                    "name": "FRG",
+                                    "screen_name": "fabgenovese",
+                                    "indices": [
+                                      241,
+                                      253
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "23515941",
+                                    "name": "asanso.eth",
+                                    "screen_name": "asanso",
+                                    "indices": [
+                                      258,
+                                      265
+                                    ]
+                                  },
+                                  {
+                                    "id_str": "738485554048860160",
+                                    "name": "EthCC - Ethereum Community Conference",
+                                    "screen_name": "EthCC",
+                                    "indices": [
+                                      296,
+                                      302
+                                    ]
+                                  }
+                                ]
+                              },
+                              "favorite_count": 1,
+                              "favorited": false,
+                              "full_text": "@LilicJohn @EthCC @fabgenovese @nvrlcl @asanso @ethereumfndn Absolutely agree while tokenizing traditional assets grabs headlines, it’s this kind of deep, foundational research that will truly shape the future of blockchain. Huge respect to @fabgenovese and @asanso for pushing the boundaries at @EthCC 👏",
+                              "in_reply_to_screen_name": "LilicJohn",
+                              "in_reply_to_status_id_str": "1939764384160743841",
+                              "in_reply_to_user_id_str": "1743049583775653889",
+                              "is_quote_status": false,
+                              "lang": "en",
+                              "quote_count": 0,
+                              "reply_count": 0,
+                              "retweet_count": 0,
+                              "retweeted": false,
+                              "user_id_str": "759595480523218944",
+                              "id_str": "1940350536588681660"
+                            },
+                            "quick_promote_eligibility": {
+                              "eligibility": "IneligibleNotProfessional"
+                            }
+                          }
+                        },
+                        "tweetDisplayType": "Tweet"
+                      },
+                      "clientEventInfo": {
+                        "component": "tweet",
+                        "element": "tweet",
+                        "details": {
+                          "conversationDetails": {
+                            "conversationSection": "HighQuality"
+                          },
+                          "timelinesDetails": {
+                            "controllerData": "DAACDAAEDAABCgABFSACCCADgAUKAAIAAAAACAIgCAAAAAA="
+                          }
+                        }
+                      }
+                    }
+                  }
+                ],
+                "displayType": "VerticalConversation",
+                "clientEventInfo": {
+                  "component": "tweet",
+                  "element": "tweet",
+                  "details": {
+                    "conversationDetails": {
+                      "conversationSection": "HighQuality"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "entryId": "cursor-bottom-7678518973543811182",
+              "sortIndex": "7283607652694031905",
+              "content": {
+                "entryType": "TimelineTimelineItem",
+                "__typename": "TimelineTimelineItem",
+                "itemContent": {
+                  "itemType": "TimelineTimelineCursor",
+                  "__typename": "TimelineTimelineCursor",
+                  "value": "UgAAAPBDHBmG-IbbkYuiwe01zsPVobDnuOs1xoW72dWiyOs11MPeqf3W9u012MO83cPO4_g1tMPS0dDfves1sMe46bH9ues1poGw7Y-MjOw1JQISFQQAAA",
+                  "cursorType": "Bottom"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "TimelineTerminateTimeline",
+          "direction": "Top"
+        }
+      ]
+    }
+  }
+}
