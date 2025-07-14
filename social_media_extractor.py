@@ -295,12 +295,11 @@ class SocialMediaExtractor:
                     "extracted_content": "Failed to extract: Tweet not found"
                 }
             
-            # Get replies using search
+            # Get replies using the dedicated tweet_replies method
             replies = []
             try:
-                async for tweet in self.api.search(f"to:{tweet_id}", limit=20):
-                    if tweet.inReplyToTweetId == int(tweet_id):
-                        replies.append(tweet)
+                async for tweet in self.api.tweet_replies(int(tweet_id), limit=20):
+                    replies.append(tweet)
             except Exception as e:
                 logger.warning(f"Could not fetch replies: {e}")
             
